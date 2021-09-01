@@ -1,2 +1,2 @@
-Simple-binary-tree-implementation
-Functions  :  insert node,find value+location,print,in-order traversal,reverse tree,tree arithmetic
+Simple-binary-tree-implementation,
+functions  :  insert node,find value+location,print,in-order traversal,reverse tree,tree arithmetic
