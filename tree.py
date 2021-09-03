@@ -28,8 +28,7 @@ def tree_math(node1,node2,operation):
             node2.data = node2.data / node1.data
             tree_math(node1.left, node2.left, operation)
             tree_math(node1.right, node2.right, operation)
-    elif node1 :
-        node2.data=0
+    
 
 
 
